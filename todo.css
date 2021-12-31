@@ -1,0 +1,40 @@
+.navbar img{
+    
+    margin-left: 50vh;
+}
+
+.container{
+    padding: 2rem;
+    max-width: 800px;
+    width: 100%;
+    background-color: #6B7280;
+
+}
+
+#inputtext{
+   width: 40%;
+    background-color: #374151 ;
+    color: white;
+
+}
+th, td {
+    width:160px;
+    text-align:center;
+    /* border:1px solid black; */
+    
+    padding:10px
+   
+  
+}
+button{
+    border-radius: 5px;
+}
+.abc1{
+    display: none;
+}
+.wrong{
+    display: block;
+}
+.right{
+    display:  block;
+}
